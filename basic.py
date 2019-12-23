@@ -1,3 +1,4 @@
 from selenium import webdriver
 browser= webdriver.Firefox()
-browser.get("https://www.google.com/")
+browser.get("http://demo.automationtesting.in/Windows.html")
+browser.quit()
