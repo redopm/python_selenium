@@ -185,3 +185,22 @@ JavaScript error: , line 0: UnknownError: The operation failed for reasons unrel
 1577132314791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
 1577132319228	Marionette	INFO	Listening on port 33159
 1577132319264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1577133581439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6AwMy0"
+1577133583149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577133583149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577133583149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577133583149	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577133586801	Marionette	INFO	Listening on port 42563
+1577133586862	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1577133644849	Marionette	INFO	Stopped listening on port 33159
+1577133646299	Marionette	INFO	Stopped listening on port 42563
+1577133797470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo532tC"
+1577133800146	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1577133800147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1577133800147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1577133800147	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1577133804306	Marionette	INFO	Listening on port 36765
+1577133804396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9173866185064071&output=html&h=600&slotname=6638633547&adk=3412097477&adf=54949582&w=151&fwrn=4&fwrnh=100&lmt=1487244615&rafmt=1&psa=1&guci=2.2.0.0.2.2.0.0&format=151x600&url=http%3A%2F%2Fdemo.automationtesting.in%2FWindows.html&flash=0&fwr=0&rpe=1&resp_fmts=4&wgl=1&adsid=NT&dt=1577133818004&bpp=4&bdt=161&fdt=579&idt=579&shv=r20191205&cbv=r20190131&saldr=aa&abxe=1&prev_fmts=151x600%2C151x600&correlator=2394538711818&frm=20&pv=1&ga_vid=149041269.1577133818&ga_sid=1577133818&ga_hid=1963684596&ga_fc=0&icsg=10500778&dssz=18&mdo=0&mso=0&u_tz=330&u_his=2&u_java=0&u_h=768&u_w=1366&u_ah=693&u_aw=1366&u_cd=24&u_nplug=0&u_nmime=0&adx=376&ady=412&biw=722&bih=426&scr_x=0&scr_y=0&eid=21065125%2C21065274&oid=3&pvsid=1117013443762531&pem=404&rx=0&eae=0&fc=896&brdim=193%2C38%2C193%2C38%2C1366%2C27%2C734%2C512%2C734%2C438&vis=1&rsz=%7C%7CleE%7C&abl=CS&pfx=0&fu=1168&bc=29&ifi=3&uci=a!3&xpc=Wru5n3Z9xs&p=http%3A//demo.automationtesting.in&dtd=586, line 1: ReferenceError: osdlfm is not defined
+1577133824605	Marionette	INFO	Stopped listening on port 36765
