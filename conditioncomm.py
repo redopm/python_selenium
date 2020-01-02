@@ -15,6 +15,5 @@ psw = paswd.send_keys("dAbUnUt")
 driver.find_element_by_name("btnLogin").click()
 
 
-
 #time.sleep(5)
-#driver.close()
+driver.close()
